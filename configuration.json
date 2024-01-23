@@ -1,4 +1,5 @@
 {
+  "github_api": "https://api.github.com/repos/{}/{}/issues",
   "token": "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",
   "rep_owner" : "topq-practice",
   "rep_name" : "api-practice"
