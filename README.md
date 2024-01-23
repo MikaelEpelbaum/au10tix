@@ -16,4 +16,4 @@ I have used the requests and the json libraries in this repo.
 I have created a configuration file where you can find the parameters for the given repository
 you can change it to a new repository if desired.
 
-the methods and there call are ordered in the same way according to the scenarios in the word file.
+the methods and their call are ordered in the same way according to the scenarios in the word file.
